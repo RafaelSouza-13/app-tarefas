@@ -1,16 +1,13 @@
-# tarefas
+# Aplicativo de tarefas desenvolvido em flutter
 
-A new Flutter project.
+Curso um da formação em flutter da alura
 
-## Getting Started
+## Curso de Flutter: Widgets, Stateless, Stateful, Imagens e Animações
 
-This project is a starting point for a Flutter application.
+### Aulas
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Flutter e Android Studio
+- [x] Widgets
+- [x] Stateless vs Stateful Widgets
+- [x] Imagens e animações
+- [x] Boas práticas
